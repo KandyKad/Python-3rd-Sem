@@ -3,19 +3,23 @@
 
 2. Create a Program that asks the user to enter their name and their age. Print out a message addressed to them that tells the year that they will turn 100 years.
 
-3. Write a Python program which accepts the radius of a circle from the user and compute the area. *(**Hint:** import math and use math.pi)*
+3. Write a Python program which accepts the radius of a circle from the user and compute the area.  
+*(**Hint:** import math and use math.pi)*
 
 4. Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
-5. Ask the user for a string and print out whether this string is a palindrome or not. *(**Hint:** A palindrome is a string that reads the same forwards and backwards.)*
+5. Ask the user for a string and print out whether this string is a palindrome or not.  
+*(**Hint:** A palindrome is a string that reads the same forwards and backwards.)*
 
 6. Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
 
-7. Write a Python program to add ‘ing’ at the end of a given string (length should be at least 3). If the given string already ends with ‘ing’ then add ‘ly’ instead. If the string length of the given string is less than 3, leave it unchanged.*(**Hint:** last 3 chars using if string[-3:0] == ‘ing’:)*
+7. Write a Python program to add ‘ing’ at the end of a given string (length should be at least 3). If the given string already ends with ‘ing’ then add ‘ly’ instead. If the string length of the given string is less than 3, leave it unchanged.  
+*(**Hint:** last 3 chars using if string[-3:0] == ‘ing’:)*
 
 8. Write a Python program to change a given string to a new string where the first and last chars have been exchanged.
 
-9. Write a Python program to get a string from a given string where all occurrences of its first char have been changed to ‘$’, except the first char itself. (use replace() e.g. restart will be resta$t).
+9. Write a Python program to get a string from a given string where all occurrences of its first char have been changed to ‘$’, except the first char itself.  
+*(**Hint:** use replace() e.g. restart will be resta$t)*
 
 10. Write a Python script that takes input from the user and displays that input back in upper and lower cases.
 
