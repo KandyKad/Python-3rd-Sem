@@ -1,0 +1,37 @@
+# Questions Lab6
+1. Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters. 
+
+2. Write a Python program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.
+
+3,4. Write a Python function that takes a list and returns a new list with unique elements of the first list.
+
+5. Write a Python function to check whether a number is perfect or not in the range between 1 to 5000.  
+***(A perfect number is a positive integer that is equal to the sum of its proper positive divisors, that is, the sum of its positive divisors excluding the number itself (also known as its aliquot sum))***
+
+6. Write a Python program to access a function inside a function.
+
+7. Write a Python program that takes any number of arguments and any type and returns the sum.
+
+8. Write a program which can map( ) to make a list whose elements are square of elements in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. 
+
+9. Write a Python program which can filter even numbers in a list by using filter function. The list is: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+
+10.  Write a Python program which can map( ) and filter( ) to make a list whose elements are square of even number in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].  
+**Hint:** evenNumbers = map(lambda x: x**2, filter (lambda x: x%2==0, list))
+
+11. The Fibonacci Sequence is computed based on the following formula:  
+F(n) = 0 if n=0  
+F(n) = 1 if n=1  
+F(n) = F(n-1) + F(n-2) if n>1  
+
+Write a program to compute the value of F(n) with a given n input by console.
+
+
+
+
+
+
+
+
+
+
