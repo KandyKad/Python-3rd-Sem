@@ -1,0 +1,35 @@
+1. Write a Python program which can compute the factorial of a given numbers. The results should be printed in a comma-separated sequence on a single line. 
+
+2. Write a Python program which accepts a sequence of comma-separated numbers from console and generates a list and a tuple which contains every number. Suppose the following input is supplied to the program.
+
+3. Write a Python program that calculates and prints the value accordingly to the given formula: Q = Square root of [(2 * C * D)/H]. 
+
+4. Write a Python program that accepts a comma-separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically. Suppose the following input is supplied to the program:
+
+5. Write a Python program which accepts a sequence of comma-separated 4 digit binary numbers as its input and then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma-separated sequence. 
+
+6. Write a Python program that computes the net amount of a bank account based on a transaction log from console input. The transaction log format is shown as following:
+
+7. You are required to write a Python program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers. The tuples are input by console. The sort criteria is:
+
+8. A robot moves in a plane starting from the original point (0,0). The robot can move towards UP, DOWN, LEFT and RIGHT with a given steps. The trace of robot movement is shown as the following: 
+
+9. Write a Python program to compute the frequency of the words from the input. The output should after sorting the key alphanumerically. Suppose the following input is supplied to the program:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
